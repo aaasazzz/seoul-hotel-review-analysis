@@ -1,0 +1,34 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.google.com/maps/place/JW+%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8+%ED%98%B8%ED%85%94+%EC%84%9C%EC%9A%B8/data=!4m9!3m8!1s0x357ca17bacfd552f:0xb0fb357abc00e8f1!5m2!4m1!1i2!9m1!1b1!16s%2Fg%2F1tjdjpjh!20s8Q99G233%2BHV9"
+    },
+    {
+      "url": "https://www.google.com/maps/place/%EB%A1%AF%EB%8D%B0%ED%98%B8%ED%85%94+%EC%9B%94%EB%93%9C/data=!4m9!3m8!1s0x357ca5a0c74235c7:0xf186fe4634b0497a!5m2!4m1!1i2!9m1!1b1!16s%2Fg%2F11bycg5r57!20s8Q99G36X%2BJX9"
+    },
+    {
+      "url": "https://www.google.com/maps/place/%EB%B9%84%EC%8A%A4%ED%83%80+%EC%9B%8C%EC%BB%A4%ED%9E%90+%EC%84%9C%EC%9A%B8/data=!4m9!3m8!1s0x357cbab0a7133aef:0x5f884482f1c8a221!5m2!4m1!1i2!9m1!1b1!16s%2Fg%2F1tyks9bz!20s8Q99H436%2BPFW"
+    },
+    {
+      "url": "https://www.google.com/maps/place/%EC%95%88%EB%8B%A4%EC%A6%88+%EC%84%9C%EC%9A%B8+%EA%B0%95%EB%82%A8/data=!4m9!3m8!1s0x357ca38e48f91f8b:0x636b268013d13038!5m2!4m1!1i2!9m1!1b1!16s%2Fg%2F11hzfm0hv9!20s8Q99G2GH%2B5HV"
+    },
+    {
+      "url": "https://www.google.com/maps/place/Josun+Palace,+a+Luxury+Collection+Hotel,+Seoul+Gangnam/data=!4m9!3m8!1s0x357ca514ab2f6917:0xa7b92ce98d88d56b!5m2!4m1!1i2!9m1!1b1!16s%2Fg%2F11rfpf6hn1!20s8Q99G23R%2B5G3"
+    },
+    {
+      "url": "https://www.google.com/maps/place/%EC%BD%98%EB%9E%98%EB%93%9C+%EC%84%9C%EC%9A%B8/data=!4m9!3m8!1s0x357c9f3bedaef86d:0x870e91c402860ad2!5m2!4m1!1i2!9m1!1b1!16s%2Fg%2F11bwn5psz4!20s8Q98GWGG%2B4JM"
+    },
+    {
+      "url": "https://www.google.co.kr/maps/place/%EB%B0%98%EC%96%80%ED%8A%B8%EB%A6%AC+%ED%81%B4%EB%9F%BD+%EC%95%A4+%EC%8A%A4%ED%8C%8C+%EC%84%9C%EC%9A%B8/data=!3m1!4b1!4m7!3m6!1s0x357ca31f74ec1f19:0xc34756c9eb6e1901!5m2!4m1!1i2!16s%2Fg%2F1tgd4fwt!20s8Q99G2X2%2BX7Q"
+    },
+    {
+      "url": "https://www.google.com/maps?cid=4524345976038494077"
+    }
+  ],
+  "maxReviews": 2000,
+  "reviewsSort": "newest",
+  "reviewsStartDate": "2024-12-31",
+  "language": "ko",
+  "reviewsOrigin": "google",
+  "personalData": true
+}

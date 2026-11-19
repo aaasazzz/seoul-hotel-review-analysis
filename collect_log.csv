@@ -1,0 +1,68 @@
+﻿날짜,담당,플랫폼,호텔명,수집건수,영어_수집건수,제외_기타언어,제외_타사이트,제외_빈본문,제외_중복,제외_기간,비고
+2026-10-15 16:05,DH,네이버지도,롯데호텔 서울,9,0,0,0,18,0,23,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 더그랜드롯데 서울 이그제큐티브 타워
+2026-10-15 16:05,DH,네이버지도,JW 메리어트 동대문 스퀘어 서울,54,0,3,0,31,0,12,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: JW 메리어트 동대문 스퀘어 서울
+2026-10-15 16:05,DH,네이버지도,파크 하얏트 서울,41,0,3,0,27,0,29,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 파크 하얏트 서울
+2026-10-15 16:05,DH,네이버지도,조선 팰리스 서울 강남,58,0,4,0,17,0,21,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 조선 팰리스 서울 강남
+2026-10-15 16:05,DH,네이버지도,안다즈 서울 강남,29,0,1,0,30,0,40,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 안다즈 서울 강남
+2026-10-15 16:05,DH,네이버지도,페어몬트 앰배서더 서울,61,0,1,0,19,0,19,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 페어몬트 앰배서더 서울
+2026-10-15 16:05,DH,네이버지도,풀만 앰배서더 서울 이스트폴,79,0,0,0,7,0,0,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 풀만 앰배서더 서울 이스트폴
+2026-10-15 16:05,DH,네이버지도,그랜드 인터컨티넨탈 서울 파르나스,71,0,2,0,41,0,36,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 그랜드 인터컨티넨탈 서울 파르나스
+2026-10-15 16:05,DH,네이버지도,노보텔 앰배서더 서울 강남,71,0,0,0,40,0,39,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 노보텔 앰배서더 서울 강남
+2026-10-15 16:05,DH,네이버지도,JW 메리어트 호텔 서울,72,0,11,0,35,0,32,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: JW 메리어트 호텔 서울
+2026-10-15 16:05,DH,네이버지도,롯데호텔 서울,61,0,3,0,48,0,38,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 더그랜드롯데 서울
+2026-10-15 16:05,DH,네이버지도,노보텔 앰배서더 서울 용산,104,0,0,0,33,0,13,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 노보텔 앰배서더 서울 용산
+2026-10-15 16:05,DH,네이버지도,비스타 워커힐 서울,111,0,1,0,35,0,3,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 비스타 워커힐 서울
+2026-10-15 16:05,DH,네이버지도,시그니엘 서울,98,0,3,0,32,0,17,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 시그니엘 서울
+2026-10-15 16:05,DH,네이버지도,소피텔 앰배서더 서울,113,0,0,0,29,0,8,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 소피텔 앰배서더 서울 호텔 & 서비스드 레지던스
+2026-10-15 16:05,DH,네이버지도,앰배서더 서울 풀만,152,0,5,0,39,0,4,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 앰배서더 서울 풀만 호텔
+2026-10-15 16:05,DH,네이버지도,포시즌스 호텔 서울,157,0,7,0,33,0,3,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 포시즌스 호텔 서울
+2026-10-15 16:05,DH,네이버지도,콘래드 서울,145,0,3,0,41,0,11,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 콘래드 서울 호텔
+2026-10-15 16:05,DH,네이버지도,몬드리안 서울 이태원,138,0,2,0,66,0,44,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 몬드리안 서울 이태원
+2026-10-15 16:05,DH,네이버지도,웨스틴 조선 서울,182,0,7,0,50,0,11,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 웨스틴 조선 서울
+2026-10-15 16:05,DH,네이버지도,메이필드 호텔 서울,169,0,3,0,68,0,10,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 메이필드호텔
+2026-10-15 16:05,DH,네이버지도,그랜드 머큐어 임피리얼 팰리스 서울 강남,150,0,1,0,62,0,37,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 그랜드 머큐어 임피리얼 팰리스 서울 강남
+2026-10-15 16:05,DH,네이버지도,그랜드 워커힐 서울,231,0,7,0,57,0,5,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 그랜드 워커힐 서울
+2026-10-15 16:05,DH,네이버지도,서울신라호텔,233,0,6,0,61,0,0,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 서울신라호텔
+2026-10-15 16:05,DH,네이버지도,그랜드 하얏트 서울,248,0,6,0,60,0,36,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 그랜드 하얏트 서울
+2026-10-15 16:05,DH,네이버지도,롯데호텔 월드,649,0,28,0,173,0,0,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 롯데호텔 월드
+2026-10-15 16:05,DH,네이버지도,반얀트리 클럽 앤 스파 서울,40,0,10,0,67,0,83,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 반얀트리 클럽 앤 스파 서울
+2026-10-15 16:05,DH,네이버지도,노보텔 스위트 앰배서더 서울 용산,100,0,1,0,63,0,36,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 노보텔 스위트 앰배서더 서울 용산
+2026-10-15 16:05,DH,네이버지도,메리어트 이그제큐티브 아파트먼트 서울,15,0,0,0,107,0,78,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 메리어트 이그제큐티브 아파트먼트 서울
+2026-10-15 16:05,DH,네이버지도,그랜드 머큐어 앰배서더 서울 용산,43,0,3,0,73,0,81,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 그랜드 머큐어 앰배서더 호텔 앤 레지던스 서울 용산
+2026-10-15 16:05,DH,네이버지도,더 플라자 서울,62,0,5,0,75,0,58,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 더 플라자 호텔 서울
+2026-10-15 16:05,DH,네이버지도,오크우드 프리미어 코엑스 센터,38,0,0,0,129,0,33,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 오크우드 프리미어 코엑스 센터
+2026-10-15 16:05,DH,네이버지도,인터컨티넨탈 서울 코엑스,52,0,1,0,8,0,0,Apify(hgservices/naver-maps-reviews-scraper) 이용 / 네이버 장소명: 웨스틴 서울 파르나스
+2026-10-15 16:05,DH,구글맵,롯데호텔 월드,45,0,99,0,141,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 롯데호텔 월드
+2026-10-15 16:05,DH,구글맵,JW 메리어트 호텔 서울,105,0,163,0,397,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: JW 메리어트 호텔 서울
+2026-10-15 16:05,DH,구글맵,비스타 워커힐 서울,43,0,17,0,65,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 비스타 워커힐 서울
+2026-10-15 16:05,DH,구글맵,조선 팰리스 서울 강남,36,0,137,0,92,0,1,"Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: Josun Palace, a Luxury Collection Hotel, Seoul Gangnam"
+2026-10-15 16:05,DH,구글맵,안다즈 서울 강남,37,0,153,0,102,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 안다즈 서울 강남
+2026-10-15 16:05,DH,구글맵,콘래드 서울,125,0,298,0,198,0,1,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 콘래드 서울
+2026-10-15 16:05,DH,구글맵,반얀트리 클럽 앤 스파 서울,748,0,46,0,105,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 반얀트리 클럽 앤 스파 서울
+2026-10-15 16:05,DH,구글맵,노보텔 스위트 앰배서더 서울 용산,70,0,62,0,47,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 노보텔 스위트 앰배서더 서울 용산
+2026-10-15 16:05,DH,구글맵,반얀트리 클럽 앤 스파 서울,220,0,68,0,138,748,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 반얀트리 클럽 앤 스파 서울
+2026-10-15 16:05,DH,구글맵,JW 메리어트 동대문 스퀘어 서울,22,0,79,0,39,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: JW 메리어트 동대문 스퀘어 서울
+2026-10-15 16:05,DH,구글맵,그랜드 머큐어 임피리얼 팰리스 서울 강남,26,0,68,0,46,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 그랜드 머큐어 임피리얼 팰리스 서울 강남
+2026-10-15 16:05,DH,구글맵,그랜드 워커힐 서울,34,0,29,0,77,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 그랜드 워커힐 서울
+2026-10-15 16:05,DH,구글맵,그랜드 인터컨티넨탈 서울 파르나스,17,0,49,0,74,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: InterContinental Grand Seoul Parnas by IHG
+2026-10-15 16:05,DH,구글맵,그랜드 하얏트 서울,27,0,64,0,49,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: Grand Hyatt Seoul
+2026-10-15 16:05,DH,구글맵,노보텔 앰배서더 서울 용산,22,0,56,0,62,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: Novotel Ambassador Seoul Yongsan - Seoul Dragon City
+2026-10-15 16:05,DH,구글맵,롯데호텔 서울,14,0,71,0,55,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 더그랜드롯데 서울
+2026-10-15 16:05,DH,구글맵,노보텔 앰배서더 서울 강남,47,0,55,0,38,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 노보텔 앰배서더 서울 강남
+2026-10-15 16:05,DH,구글맵,메이필드 호텔 서울,36,0,19,0,55,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 메이필드 호텔
+2026-10-15 16:05,DH,구글맵,몬드리안 서울 이태원,46,0,67,0,27,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: Mondrian Seoul Itaewon
+2026-10-15 16:05,DH,구글맵,서울신라호텔,33,0,51,0,56,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 서울신라호텔
+2026-10-15 16:05,DH,구글맵,소피텔 앰배서더 서울,26,0,72,0,42,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 소피텔 앰배서더 서울 호텔 & 서비스드 레지던스
+2026-10-15 16:05,DH,구글맵,시그니엘 서울,15,0,55,0,70,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 시그니엘 서울
+2026-10-15 16:05,DH,구글맵,웨스틴 조선 서울,17,0,69,0,54,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 웨스틴 조선 서울
+2026-10-15 16:05,DH,구글맵,파크 하얏트 서울,18,0,77,0,45,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 파크 하얏트 서울
+2026-10-15 16:05,DH,구글맵,포시즌스 호텔 서울,17,0,63,0,60,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 포시즌스 호텔 서울
+2026-10-15 16:05,DH,구글맵,앰배서더 서울 풀만,96,0,32,0,12,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 앰배서더 서울 풀만 호텔
+2026-10-15 16:05,DH,구글맵,인터컨티넨탈 서울 코엑스,30,0,65,0,45,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 웨스틴 서울 파르나스
+2026-10-15 16:05,DH,구글맵,페어몬트 앰배서더 서울,41,0,45,0,54,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 페어몬트 앰배서더 서울
+2026-10-15 16:05,DH,구글맵,풀만 앰배서더 서울 이스트폴,41,0,57,0,42,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: Pullman Ambassador Seoul Eastpole
+2026-10-15 16:05,DH,구글맵,더 플라자 서울,18,0,67,0,55,0,0,"Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: THE PLAZA Seoul, Autograph Collection"
+2026-10-15 16:05,DH,구글맵,그랜드 머큐어 앰배서더 서울 용산,56,0,47,0,37,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: Grand Mercure Ambassador Hotel and Residences Seoul Yongsan
+2026-10-15 16:05,DH,구글맵,오크우드 프리미어 코엑스 센터,16,0,56,0,68,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: Oakwood Premier Coex Center Seoul
+2026-10-15 16:05,DH,구글맵,메리어트 이그제큐티브 아파트먼트 서울,6,0,23,0,27,0,0,Apify(compass/Google-Maps-Reviews-Scraper) 이용 / 구글 장소명: 메리어트 이그제큐티브 아파트먼트 서울
+2026-10-15 16:06,DH,구글맵,콘래드 서울,-1,0,1,0,0,0,0,"데이터 정정: GM_DH_000306 삭제 — 구글은 원문을 한국어로 표시했지만 본문 전체가 영어 (판별 규칙 수정, 번호는 재사용하지 않음)"

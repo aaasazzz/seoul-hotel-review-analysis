@@ -1,0 +1,63 @@
+# ==========================================================
+#  공개 저장소용 .gitignore
+#  원칙: 코드·사전·집계 결과·문서만 올리고,
+#        리뷰 원문·작성자 식별 정보·대용량 데이터는 올리지 않는다.
+# ==========================================================
+
+# ── 개발 환경 / 개인 설정 ─────────────────────────────
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.mcp.json
+CLAUDE.md
+
+# ── 어디에 있든 올리지 않을 형식 (팀 제출 엑셀·발표 원본·영상) ──
+*.xlsx
+*.xls
+*.pptx
+*.mp4
+*.mov
+*.zip
+
+# ── 팀 제출물 (발표 자료·분석 엑셀) ─────────────────────
+# 팀원 동의를 받기 전까지 올리지 않음. 동의 후 발표 PDF만 공개하려면 이 줄을 지우고
+# *.xlsx·*.pptx·*.mp4 규칙으로 나머지가 계속 빠지는지 확인할 것
+/docs/발표/
+/docs/분석/
+
+# ── 내부 기록 문서 (Apify 계정·크레딧 사용 기록, 실행 ID 포함) ──
+/COLLECTION_PLAN.md
+/실행_가이드.md
+# 팀원용 안내 문서 (저장소에 없는 데이터 파일 기준으로 쓰여 있음)
+/preprocessing/README.md
+/preprocessing/2_통합/결과/결과_설명.md
+
+# ── 1차 수집 시도 보관본 (직접 만든 크롤러, 사용하지 않음) ──
+/_archive_round1/
+
+# ── 수집 원본 (리뷰 원문, 작성자 ID·사진 URL) ─────────────
+/apify/results/
+# 수집 결과 CSV·변환 로그 (원문, 플랫폼 리뷰 키)
+/output/
+
+# ── 1단계: 개인 교정 (원문, 교정 전후 문장) ──────────────
+/preprocessing/1_개인교정/결과/
+/preprocessing/1_개인교정/manual_fixes.csv
+
+# ── 2단계: 통합 전처리 ──────────────────────────────
+# 팀원·본인 입력 파일 (원문, 최대 175MB)
+/preprocessing/2_통합/입력/
+# 통합 결과 (원문 + 토큰, 100MB 초과 파일 포함)
+/preprocessing/2_통합/결과/*.csv
+# 집계 결과만 예외로 공개 (토큰 빈도, 원문 없음)
+!/preprocessing/2_통합/결과/top300_tokens.csv
+# 로그 중 원문 일부가 들어 있는 것 (집계만 있는 stopword·synonym·expression 로그는 공개)
+/preprocessing/2_통합/결과/로그/ad_log.csv
+/preprocessing/2_통합/결과/로그/noise_log.csv
+/preprocessing/2_통합/결과/로그/duplicate_log.csv
+# 사전 중 원문 일부가 들어 있는 것
+/preprocessing/2_통합/사전/yt_labels.csv
+# 경영불용어사전 원본 파일은 올리지 않음
+# (조정본 stopwords_hotel.csv는 출처를 밝히고 공개 → 사전/README.md)
+/preprocessing/2_통합/사전/교수님_경영불용어사전_원본.csv

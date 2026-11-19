@@ -1,0 +1,13 @@
+{
+  "maxReviews": 1400,
+  "reviewsSort": "newest",
+  "reviewsStartDate": "2024-12-31",
+  "language": "ko",
+  "reviewsOrigin": "google",
+  "personalData": true,
+  "startUrls": [
+    {
+      "url": "https://www.google.co.kr/maps/place/%EB%B0%98%EC%96%80%ED%8A%B8%EB%A6%AC+%ED%81%B4%EB%9F%BD+%EC%95%A4+%EC%8A%A4%ED%8C%8C+%EC%84%9C%EC%9A%B8/data=!3m1!4b1!4m7!3m6!1s0x357ca31f74ec1f19:0xc34756c9eb6e1901!5m2!4m1!1i2!16s%2Fg%2F1tgd4fwt!20s8Q99G2X2%2BX7Q"
+    }
+  ]
+}

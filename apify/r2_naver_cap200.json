@@ -1,0 +1,11 @@
+{
+  "placeIds": [
+    "1786001796",
+    "21202909",
+    "36908458"
+  ],
+  "maxReviewsPerPlace": 200,
+  "reviewSources": "visitor",
+  "includePersonalData": true,
+  "language": "ko"
+}
